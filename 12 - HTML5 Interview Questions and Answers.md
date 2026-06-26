@@ -1,6 +1,6 @@
 # Top 100 HTML5 Interview Questions & Answers
 
-This file compiles 100 essential HTML5 interview questions and detailed answers, categorized logically from foundational structure up to advanced APIs and browser optimization practices. Perfect for revision, interviewing, or technical onboarding.
+This document compiles 100 essential HTML5 interview questions and detailed answers, categorized logically from foundational structure up to advanced APIs and browser optimization practices. Perfect for revision, interviewing, or technical onboarding.
 
 ---
 
@@ -20,7 +20,6 @@ This file compiles 100 essential HTML5 interview questions and detailed answers,
 ### Q1: What is HTML5 and how does it differ from HTML4?
 **Answer:**
 HTML5 is the latest major revision of the Hypertext Markup Language. Key differences include native support for audio/video (<audio>, <video>), new semantic elements (<header>, <footer>, <article>), drawing capabilities via <canvas>, localized storage (localStorage/sessionStorage), and the removal of deprecated elements like <font>, <center>, and <strike>.
-
 
 ### Q2: What are semantic elements in HTML5?
 **Answer:**
@@ -450,4 +449,3 @@ UTF-8 is the universally accepted standard character encoding configuration base
 ### Q100: What happens if you use old HTML4 elements like <font> or <center> in an HTML5 page?
 **Answer:**
 Modern browsers are highly backwards-compatible and will likely render them correctly. However, these elements are officially obsolete and invalid under HTML5 compliance rules. They will fail standard W3C layout validation testing and should be entirely replaced by modern declarative CSS classes.
-.

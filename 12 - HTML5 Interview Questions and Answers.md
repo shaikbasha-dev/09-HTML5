@@ -22,6 +22,7 @@ Form validation
 Canvas
 SVG
 Local Storage
+
 3. What is the difference between HTML and HTML5?
 
 Answer:
@@ -31,6 +32,7 @@ Older version	Latest version
 No audio/video support	Supports audio and video
 Limited form validation	Built-in validation
 No local storage	Supports local storage
+
 4. What is a Tag in HTML?
 
 Answer:
@@ -54,6 +56,7 @@ Tags that have opening and closing tags.
 Example:
 
 <h1>Welcome</h1>
+
 6. What are Unpaired Tags?
 
 Answer:
@@ -66,6 +69,7 @@ Examples:
 <hr>
 <img>
 <input>
+
 7. What is <!DOCTYPE html>?
 
 Answer:
@@ -82,6 +86,7 @@ Title
 Meta tags
 CSS links
 JavaScript links
+
 9. What is the purpose of <body>?
 
 Answer:
@@ -125,6 +130,7 @@ A hyperlink connects one webpage to another.
 Created using:
 
 <a href="">
+  
 14. What is the use of href?
 
 Answer:
@@ -134,6 +140,7 @@ href specifies the destination URL.
 Example:
 
 <a href="https://www.google.com">
+  
 15. What is target="_blank"?
 
 Answer:
@@ -149,6 +156,7 @@ alt displays alternate text when an image cannot be loaded.
 Example:
 
 <img src="java.png" alt="Java Logo">
+
 17. What is the difference between Ordered and Unordered Lists?
 
 Answer:
@@ -185,6 +193,7 @@ Answer:
 <tr>
 <th>
 <td>
+  
 20. What is <tr>?
 
 Answer:
@@ -212,6 +221,7 @@ It allows one cell to occupy multiple columns.
 Example:
 
 <td colspan="2">
+  
 24. What is rowspan?
 
 Answer:
@@ -221,6 +231,7 @@ It allows one cell to occupy multiple rows.
 Example:
 
 <td rowspan="3">
+  
 25. What is a Form?
 
 Answer:
@@ -230,6 +241,7 @@ A form collects user input.
 Created using:
 
 <form>
+  
 26. What is the difference between GET and POST?
 
 Answer:
@@ -243,6 +255,7 @@ POST:
 
 Data hidden
 More secure
+
 27. What is the purpose of action attribute?
 
 Answer:
@@ -252,6 +265,7 @@ It specifies where form data is sent.
 Example:
 
 <form action="save.java">
+  
 28. What is required attribute?
 
 Answer:
@@ -261,6 +275,7 @@ Makes a field mandatory.
 Example:
 
 <input required>
+
 29. What is placeholder?
 
 Answer:
@@ -270,6 +285,7 @@ Displays hint text inside an input box.
 Example:
 
 <input placeholder="Enter Name">
+
 30. What is pattern attribute?
 
 Answer:
@@ -279,6 +295,7 @@ Used for validation using Regular Expressions.
 Example:
 
 <input pattern="[0-9]{10}">
+
 31. What is id attribute?
 
 Answer:
@@ -295,6 +312,7 @@ Used in:
 
 CSS
 JavaScript
+
 33. What is Semantic HTML?
 
 Answer:
@@ -308,6 +326,7 @@ Examples:
 <section>
 <article>
 <footer>
+  
 34. What is the difference between <div> and <span>?
 
 Answer:
@@ -319,6 +338,7 @@ Block-level element
 <span>
 
 Inline element
+
 35. What is <audio> tag?
 
 Answer:
@@ -328,6 +348,7 @@ Used to play audio files.
 Example:
 
 <audio controls>
+  
 36. What is <video> tag?
 
 Answer:
@@ -337,6 +358,7 @@ Used to play videos.
 Example:
 
 <video controls>
+  
 37. What is controls attribute?
 
 Answer:
@@ -346,6 +368,7 @@ Displays:
 Play button
 Pause button
 Volume control
+
 38. What is autoplay?
 
 Answer:
@@ -361,6 +384,7 @@ Displays an image before a video starts.
 Example:
 
 <video poster="cover.jpg">
+  
 40. What are Global Attributes?
 
 Answer:
@@ -375,6 +399,7 @@ style
 title
 hidden
 lang
+
 41. What is Local Storage in HTML5?
 
 Answer:
@@ -385,6 +410,7 @@ Methods:
 
 localStorage.setItem()
 localStorage.getItem()
+
 42. What is Session Storage?
 
 Answer:
@@ -402,6 +428,7 @@ Canvas is used to draw graphics using JavaScript.
 Example:
 
 <canvas>
+  
 44. What is SVG?
 
 Answer:
@@ -426,6 +453,7 @@ Semantic Elements
 Form Validation
 Drag and Drop
 Geolocation
+
 46. What is Geolocation API?
 
 Answer:
@@ -443,11 +471,13 @@ It allows users to drag an element and drop it somewhere else.
 Answer:
 
 <img>
+
 49. Which HTML tag is used for creating hyperlinks?
 
 Answer:
 
 <a>
+  
 50. What is HTML5 mainly used for?
 
 Answer:

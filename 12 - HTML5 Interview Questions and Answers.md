@@ -21,6 +21,7 @@ This file compiles 100 essential HTML5 interview questions and detailed answers,
 **Answer:**
 HTML5 is the latest major revision of the Hypertext Markup Language. Key differences include native support for audio/video (<audio>, <video>), new semantic elements (<header>, <footer>, <article>), drawing capabilities via <canvas>, localized storage (localStorage/sessionStorage), and the removal of deprecated elements like <font>, <center>, and <strike>.
 
+
 ### Q2: What are semantic elements in HTML5?
 **Answer:**
 Semantic elements clearly describe their meaning to both the browser and the developer. Examples include <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, and <summary>.

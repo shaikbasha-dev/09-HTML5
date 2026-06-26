@@ -449,3 +449,4 @@ UTF-8 is the universally accepted standard character encoding configuration base
 ### Q100: What happens if you use old HTML4 elements like <font> or <center> in an HTML5 page?
 **Answer:**
 Modern browsers are highly backwards-compatible and will likely render them correctly. However, these elements are officially obsolete and invalid under HTML5 compliance rules. They will fail standard W3C layout validation testing and should be entirely replaced by modern declarative CSS classes.
+.
